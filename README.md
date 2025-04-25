@@ -1,8 +1,8 @@
 # Qué Me Pongo - Diseño de Sistemas de Información
 
-Un ejercicio iterativo que aplica los conceptos de la materia que se desarrollará durante el año
+Un ejercicio iterativo que aplica los conceptos de la materia que se desarrollará durante el año.
 
-Me valgo de la siguiente plantilla para la construcción del proyecto
+Me valgo de la siguiente plantilla para la construcción del proyecto:
 # java-base-project
 
 Esta es una plantilla de proyecto diseñada para: 
@@ -32,15 +32,6 @@ Este comando hará lo siguiente:
  2. Validará las convenciones de formato mediante checkstyle
  3. Detectará la presencia de (ciertos) code smells
  4. Validará la cobertura del proyecto
-
-## Entrega del proyecto
-
-Para entregar el proyecto, crear un tag llamado `entrega-final`. Es importante que antes de realizarlo se corra la validación
-explicada en el punto anterior. Se recomienda hacerlo de la siguiente forma:
-
-```
-mvn clean verify && git tag entrega-final && git push origin HEAD --tags
-```
 
 ## Configuración del IDE (IntelliJ)
 
