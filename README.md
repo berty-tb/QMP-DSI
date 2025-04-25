@@ -1,3 +1,8 @@
+# Qué Me Pongo - Diseño de Sistemas de Información
+
+Un ejercicio iterativo que aplica los conceptos de la materia que se desarrollará durante el año
+
+Me valgo de la siguiente plantilla para la construcción del proyecto
 # java-base-project
 
 Esta es una plantilla de proyecto diseñada para: 
