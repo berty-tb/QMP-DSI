@@ -2,13 +2,18 @@
 
 Un ejercicio iterativo que aplica los conceptos de la materia que se desarrollará durante el año.
 
+---
+
 ## Primer iteración
+
 [Enunciado](https://docs.google.com/document/d/1k1f-9AuIohlBGB2soSNePJ6jLxM37_tZeSD-hW_esIQ/edit?tab=t.0#heading=h.uyku9mnteh0t)
 
 [Solución explicada](https://docs.google.com/document/d/1ayrs5-vrGsXgZKDob-f5_0fmhCYXf7-ty5Be6NXITRY/edit?tab=t.0#heading=h.uyku9mnteh0t)
 
+---
 
 Me valgo de la siguiente plantilla para la construcción del proyecto:
+
 # java-base-project
 
 Esta es una plantilla de proyecto diseñada para: 
