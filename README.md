@@ -84,5 +84,3 @@ Este comando hará lo siguiente:
 3. Configurarlo activando los Checks de Google y la versión de Checkstyle `== 9.0.1`:
 
 ![image](https://github.com/dds-utn/java-base-project/assets/11719816/b1edc122-4675-4f8d-bffc-9e3d3366fac6)
-
-
